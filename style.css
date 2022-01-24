@@ -1,0 +1,244 @@
+body {
+	font-family: 'Noto Sans', sans-serif;
+	margin: 0;
+}
+
+h1 {
+	color: white;
+	font-size: 45px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: white;
+	font-size: 28px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h3 {
+	text-align: center;
+	font-size: 28px;
+	font-weight: normal;
+	margin-top: 50px;
+	color: black;
+}
+
+h4 {
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+p {
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	font-size: 12;
+	width: 100px;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-bottom: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	text-align: center;
+}
+
+.main-links {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 600px;
+	margin-top: 0px;
+}
+
+.bio {
+	color: white;
+	font-size: 16px;
+	margin-top: 0;
+}
+
+.me {
+	height: 250px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	margin-top: 20px;
+}
+
+.about {
+	width: 100%;
+	height: 805px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5) no-repeat center center fixed; /* Black background with 0.5 opacity */
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    color: #f1f1f1; /* Grey text */
+    border: 10px transparent;
+}
+
+.about-container {
+	background: url('./images/bg1.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 895px;
+}
+
+.about .content{
+    width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
+.grey {
+	height: 3px;
+	background-color: #919191;
+	border: none;
+	width: 100px;
+	margin-top: 10px;
+}
+
+.yellow {
+	border-top: 5px double #F5A623;
+	width: 250px;
+	border-bottom: none;
+	border-right: none;
+}
+
+.box {
+	float: center;
+	width: 42.5%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+.course-box {
+	float: center;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+.course-box-2 {
+	float: center;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+
+.clear {
+	clear: both;
+}
+
+.skills-and-tools{
+	max-width: 400px;
+	margin: 40px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icons {
+	text-align: center;
+}
+
+.contact-me {
+	height: 350px;
+	background-color: #202020;
+	padding-top: 20px;
+}
+
+.contact-headline {
+	color: white;
+	background-color: #202020;
+	padding-top: 30px;
+}
+
+.contact-info {
+	color: white;
+	font-size: 13px;
+	margin-top: 30px;
+}
+
+.contact-link {
+	color: white;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.nav-link{
+	color: white;
+	text-decoration: none;
+}
+
+.hire-me {
+	border-style: solid;
+	border-color: white;
+}
+
+.course-link{
+	color: black;
+	text-decoration: none;
+}
+
+.nw-msds-links{
+	color: black;
+	text-decoration: none;
+}
+
+.msds-main-link{
+	color: black;
+	text-decoration: none;
+}
+
+.table-style{
+	margin:auto;
+	margin-bottom: 40px;
+}
+
+.markowitz {
+	height: 300px;
+
+	border-width: 1px;
+	margin-top: 20px;
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sharpe {
+	height: 480px;
+	width: 480px;
+	border-width: 1px;
+	margin-top: 10px;
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.LinReg_CPP {
+	height: 580px;
+	width: 580px;
+	margin-top: 10px;
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+}
